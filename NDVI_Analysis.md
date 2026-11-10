@@ -1,5 +1,6 @@
 The core idea behind this analysis is to analyze how is a 26-hectare sacred grove responding to the ecological pressures exerted by 16 industrial establishments within its 1-km surrounding landscape?
 Research questions:1. What is the vegetation condition of Shivbari sacred Grove? 2. How has vegetation changed between 2017 to 2026? 3. How much industrial and built-up pressure surrounds the grove? 4. Does the grove retain relatively better vegetation condition than its industrial surroundings?
+
 Step: Area of Interest (AOI) Selection and Satellite Imagery Visualisation
    - Tool used: Copernicus Browser
    - In this step, I used the Copernicus Browser to visually inspect recent satellite imagery of my study area and define the Area of Interest (AOI) for analysis.
