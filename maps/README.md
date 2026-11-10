@@ -1,4 +1,4 @@
-# Maps
+# ArcGIS
 
 This folder contains all GIS maps produced during the Shiv Bari Sacred Grove Industrial Pressure Assessment.
 
