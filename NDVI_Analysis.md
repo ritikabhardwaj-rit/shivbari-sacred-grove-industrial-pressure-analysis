@@ -11,3 +11,4 @@ Procedure:
    - Kept the default configuration for the true-colour visualisation of the layer.
    - Drew a rectangular AOI on the map using the polygon/rectangle drawing tool. The selected area is approximately 3.59 km².
    - Placed a location marker at the centre of the AOI, which sits on a dense green vegetation patch (Shivbari Sacred Grove), surrounded by agricultural fields, bare land, and built-up areas. The NH3 road label is visible near the bottom of the AOI, which helps with geographic reference.
+<img width="1892" height="863" alt="Screenshot 2026-11-10 220004" src="https://github.com/user-attachments/assets/0182a26d-986c-4d6d-9341-9cf65a4e6e8f" />
