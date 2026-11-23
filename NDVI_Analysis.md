@@ -13,5 +13,10 @@ We need to do NDVI analysis and LULC Chnage analysis only withing the 1000m buff
 Go to analysis->tools->clip raster
 <img width="1182" height="821" alt="Screenshot 2026-11-23 105039" src="https://github.com/user-attachments/assets/4b84b46b-dfd7-48a1-b42d-6d6159c006aa" />
 Follow this step for other bands as well.
+
 Now calculate NDVI: Go to analaysis->tools->Raster calculation
 <img width="1061" height="805" alt="Screenshot 2026-11-23 113934" src="https://github.com/user-attachments/assets/e2a8c42d-23e8-4699-8a19-6e3a6bcf31e0" />
+Change the NDVI colour scheme:
+In Contents, right-click RasterC_1.-Select Symbology-Keep Primary Symbology as Stretch-Find the Color scheme dropdown-Select a colour ramp that progresses from brown/yellow to green
+[Location Map1.tif](https://github.com/user-attachments/files/35274641/Location.Map1.tif)
+
