@@ -13,22 +13,6 @@ Procedure:
    - Placed a location marker at the centre of the AOI, which sits on a dense green vegetation patch (Shivbari Sacred Grove), surrounded by agricultural fields, bare land, and built-up areas. The NH3 road label is visible near the bottom of the AOI, which helps with geographic reference.
 <img width="1892" height="863" alt="Screenshot 2026-11-10 220004" src="https://github.com/user-attachments/assets/0182a26d-986c-4d6d-9341-9cf65a4e6e8f" />
 
-**Creation of the Surrounding Zone Using Erase:**
-To isolate the surrounding landscape from the sacred grove itself, the Erase geoprocessing tool was used.
-Tool: Analysis → Tools → Erase
- -Input Features- SacredGroveBoundary_Buffer1000m
- -Erase Features- SacredGroveBoundary
- -Output Feature- Surrounding_Zone
-This operation removes the sacred grove boundary from the 1-km buffer, producing a polygon representing the surrounding landscape outside the grove.
-The resulting Surrounding_Zone is intended for separate assessment of surrounding industrial and anthropogenic pressures.
-**Important analytical distinction**: NDVI and LULC analysis use the full 1-km buffer, including the sacred grove. The Surrounding_Zone is used when the analysis specifically requires exclusion of the grove itself.
-
-**NDVI Analysis – 2017**
-Software used: ArcGIS Pro
-Satellite data: Sentinel-2
-Spatial resolution: 10 metres
-Normalized Difference Vegetation Index (NDVI) was calculated to assess vegetation greenness and spatial variation in vegetation conditions in study area.
-
 **Satellite Band Selection**
 Sentinel-2 bands used for NDVI calculation: Band4 (RED Spectral region, Resolution:10m, Purpose: Red Reflectance) & Band8 (near Infrared spectral region, Resolution: 10m, Purpose: Near-infrared reflectance)
 
