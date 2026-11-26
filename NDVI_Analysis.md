@@ -13,7 +13,3 @@ Procedure:
    - Placed a location marker at the centre of the AOI, which sits on a dense green vegetation patch (Shivbari Sacred Grove), surrounded by agricultural fields, bare land, and built-up areas. The NH3 road label is visible near the bottom of the AOI, which helps with geographic reference.
 <img width="1892" height="863" alt="Screenshot 2026-11-10 220004" src="https://github.com/user-attachments/assets/0182a26d-986c-4d6d-9341-9cf65a4e6e8f" />
 
-**Satellite Band Selection**
-Sentinel-2 bands used for NDVI calculation: Band4 (RED Spectral region, Resolution:10m, Purpose: Red Reflectance) & Band8 (near Infrared spectral region, Resolution: 10m, Purpose: Near-infrared reflectance)
-
-**Clipping Satellite Bands**
